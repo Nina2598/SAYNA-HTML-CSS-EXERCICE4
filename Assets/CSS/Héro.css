@@ -1,0 +1,76 @@
+@font-face{
+    font-family:"far-from-homecoming";
+    src:url("..//Far_From_Homecoming_Updated.otf");
+}
+.navbar{
+    background-color: #114c92;
+}
+.héro{
+    background-image: url(..//Illustration/img19.png);
+    background-size: cover;
+    padding: 200px 100px;
+}
+.héro h1{
+    font-family:"far-from-homecoming";
+    font-size: 70px;
+}
+.part1{
+    background-color: #114c92;
+}
+.part1 h3{
+    font-family:"far-from-homecoming";
+}
+.solide{
+    background-image: url(../Illustration/img20.png);
+    background-size: cover;
+    padding: 150px 150px;
+}
+.solide h1{
+    font-family:"far-from-homecoming";
+}
+.Blue{
+    background-color: #114c92;
+    color: white;
+}
+.Blue h3{
+    font-family:"far-from-homecoming";
+}
+.parent {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+.child1 {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+.child2 {
+    position: relative;
+    padding: 150px;
+}
+.avengers{
+    background-color: #B11313;
+}
+.avengers h3{
+    font-family:"far-from-homecoming";
+}
+.part2{
+   background-image: url(../Illustration/img32.png);
+}
+.final{
+    background-image: url(../Illustration/img33.png);
+    background-size: cover;
+}
+.text h3{
+    font-family:"far-from-homecoming";
+}
+footer{
+    background-color: #000000;
+}
+footer .footer1 img{
+    background-color: #114c92;
+    border-radius: 50%;
+}

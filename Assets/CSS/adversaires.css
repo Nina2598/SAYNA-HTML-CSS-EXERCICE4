@@ -1,0 +1,26 @@
+@font-face{
+    font-family:"far-from-homecoming";
+    src:url("..//Far_From_Homecoming_Updated.otf");
+}
+.navbar{
+    background-color: #F1C530;
+}
+body .vilains{
+    background-image: url(../Illustration/img7.png);
+    background-size: cover;
+    padding: 260px;
+}
+.vilains h1{
+    font-family:"far-from-homecoming";
+    font-size: 80px;
+}
+body .Adversaires{
+    background-color: #F1C530;
+}
+footer{
+    background-color: #000000;
+}
+footer .footer1 img{
+    background-color: #F1C530;
+    border-radius: 50%;
+}

@@ -1,0 +1,42 @@
+@font-face{
+    font-family:"far-from-homecoming";
+    src:url("..//Far_From_Homecoming_Updated.otf");
+}
+.navbar{
+    background-color: #B11313;
+}
+.main h1{
+    font-family:"far-from-homecoming";
+    margin: 25px;
+    font-size: 90px;
+}
+.main{
+    background-image: url(..//Illustration/img1.png);
+    background-size: cover;
+    padding: 250px 150px;
+}
+.cinéma{
+    background-color: #B11313;
+}
+.cinéma h3{
+    font-family:"far-from-homecoming";
+}
+.Spid h1{
+    font-family:"far-from-homecoming";
+}
+.Spid{
+    background-color: #114c92;
+}
+.newsletter h3{
+    font-family:"far-from-homecoming";
+}
+.newsletter{
+    background-color: #B11313;
+}
+footer{
+    background-color: #000000;
+}
+footer .footer1 img{
+    background-color: #B11313;
+    border-radius: 50%;
+}
